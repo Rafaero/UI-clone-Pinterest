@@ -4,4 +4,4 @@ technologies: Javascript, Sass, Html
 
 #Preview
 
-<img src="./pinterest-clone.gif" width="" height="400px" />
+<img src="./pinterest-clone.gif" width="" height="600px" />
