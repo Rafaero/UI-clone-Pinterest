@@ -1,6 +1,6 @@
 # UI-clone-Pinterest
 
-technologies: Javascript, Sass, Html
+technologies: Javascript, Sass, Html.
 
 #Preview
 
